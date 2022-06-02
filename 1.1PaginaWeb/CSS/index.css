@@ -1,0 +1,53 @@
+.text-logo {
+  color: #ffffff !important;
+}
+.btn-ticket {
+  background-color: #525252;
+  color: #fff;
+}
+.btn-ticket:hover {
+  background-color: #252525;
+}
+
+#colorfuente {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+#header img {
+  width: 70px;
+}
+
+#footer {
+  background-color: #525252;
+}
+#footer a {
+  color: white;
+}
+#main .carousel-inner img {
+  max-height: 100vh;
+  object-fit: cover;
+  filter: grayscale(10%);
+}
+#carousel {
+  position: relative;
+}
+#carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.397);
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row {
+  height: 100%;
+}
+#quienes-somos img {
+  max-width: 100%;
+}
+#quienes-somos {
+  background-color: #343a40;
+  color: #fff;
+}
